@@ -1,1 +1,5 @@
-IndexController
+package main
+
+func main() {
+
+}

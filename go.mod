@@ -1,4 +1,4 @@
-module go-study
+module github.com/WXiangQian/go-study
 
 go 1.15
 
